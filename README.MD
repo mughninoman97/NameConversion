@@ -4,7 +4,7 @@ This is my _**Case converter**_ in JavaScript. It takes the user input and conve
 > [Check the live link here](https://project13-by-noman.vercel.app/) 
 
 FULL WEBPAGE:
-![](image.png "proj13 image")
+![](image.PNG "proj13 image")
 
 
 
@@ -13,9 +13,6 @@ FULL WEBPAGE:
 
 ![htmlcot](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg "html logo")
 ![html](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg "html logo")
-
-
-
 <a href="" >
     <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />
   
