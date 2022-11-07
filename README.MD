@@ -1,7 +1,7 @@
 # Case Converter using JavaScript
 
 This is my _**Case converter**_ in JavaScript. It takes the user input and converts it into various conversion formats like Camel-case, Snake-cast, Pascal-case etc.
-> [Check the live link here](https://project13-by-noman.vercel.app/) 
+> [Check the live link here](https://name-conversion-by-noman.netlify.app/) 
 
 FULL WEBPAGE:
 ![](image.PNG "proj13 image")
